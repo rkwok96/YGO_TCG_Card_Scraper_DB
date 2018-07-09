@@ -8,7 +8,7 @@
 - Also parses all of the data retrieved into a file with comma-separated values (card database.txt);
 
 ### External Sources
-- Uses the Jsoup library for link seeking
+- Uses the [Jsoup](http://jsoup.org) library for link seeking
 - Uses the yugiohprices API for retrieving card data. Shoutout to [yugiohprices.com](http://yugiohprices.com)!
 
 ### Issues and Bugs
