@@ -4,7 +4,7 @@
 
 - Basic written-for-fun scraper for YuGiOh TCG card data, written in Java in Eclipse IDE;
 - Scrapes names from the YGO Wikia page and compiles them all in a file (card names.txt) while using the JSoup library;
-- Also scrapes card information for each of those cards (name, attribute, effect, atk, def, etc.) and outputs to another file (card info.txt);
+- Also scrapes card information for each of those cards (name, attribute, effect, atk, def, etc.) and outputs to another file (card info.txt), using an @ symbol as the delimiter;
 - Also parses all of the data retrieved into a file with comma-separated values (card database.txt);
 
 ### External Sources
